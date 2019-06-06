@@ -1,3 +1,9 @@
 Build/
 tags/
 *.[od]
+
+Conf/
+*.pyc
+__pycache__/
+
+*_extdep/
